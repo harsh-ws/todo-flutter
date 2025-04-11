@@ -12,9 +12,7 @@ A clean and minimalist Todo application built with Flutter. This app helps users
 
 ## Screenshots
 
-<p align="center">
-  <img src="assets/image.png" alt="Todo App Screenshot" width="300"/>
-</p>
+ <img src="assets/ss.png" width =400 height=800>
 
 ## Getting Started
 
