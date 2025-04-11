@@ -12,8 +12,9 @@ A clean and minimalist Todo application built with Flutter. This app helps users
 
 ## Screenshots
 
-[Add your app screenshots here]
-image.png
+<p align="center">
+  <img src="assets/image.png" alt="Todo App Screenshot" width="300"/>
+</p>
 
 ## Getting Started
 
@@ -28,4 +29,16 @@ image.png
 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/todo_flutter.git
+```
+2.  Navigate to the project directory
+```bash
+cd todo_flutter
+```
+3.  Install dependencies
+```bash
+flutter pub get
+```
+4.  Run the app
+```bash
+flutter run 
 ```
