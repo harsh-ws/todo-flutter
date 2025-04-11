@@ -1,16 +1,31 @@
-# todo_flutter
+# Flutter Todo App
 
-A new Flutter project.
+A clean and minimalist Todo application built with Flutter. This app helps users manage their daily tasks with a simple and intuitive interface.
+
+## Features
+
+- ✨ Create new tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 💫 Clean and modern UI
+- ⚡ Fast and responsive
+
+## Screenshots
+
+[Add your app screenshots here]
+image.png
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (2.0.0 or higher)
+- Dart SDK (2.12.0 or higher)
+- An IDE (VS Code, Android Studio, or IntelliJ)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/todo_flutter.git
+```
